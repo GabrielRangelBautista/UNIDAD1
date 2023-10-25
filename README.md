@@ -4,6 +4,7 @@ Unidada 1 de informatica de Gabriel Rangel
 TAREA 1.1
 <img src="https://github.com/GabrielRangelBautista/imagenes/blob/main/1-parte%201.1.jpg" alt="PARTE 1" width="100%"/>
 <img src="https://github.com/GabrielRangelBautista/imagenes/blob/main/2%20parte%201.1.jpg" alt="PARTE 2" width="100%"/>
+<img src="https://github.com/GabrielRangelBautista/imagenes/blob/main/1.1.3.jpg" alt="PARTE 3" width="100%"/>
 
 
 
